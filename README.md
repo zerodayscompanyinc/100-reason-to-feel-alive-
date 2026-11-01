@@ -14,7 +14,7 @@ Improve for motivated if you are losing hope
 9. To help a helpless one
 10. To explore the unknown
 11. To become unexpectedly brave
-12. *(not shown in image)*
+12. To face your fears *(added)*
 13. Revenge
 14. To find freedom
 15. To understand why I exist
@@ -29,14 +29,14 @@ Improve for motivated if you are losing hope
 24. To find peace within uncertainty
 25. To know what is enough
 26. To choose meaning over comfort
-27. *(not shown in image)*
-28. *(not shown in image)*
-29. *(not shown in image)*
-30. *(not shown in image)*
-31. *(not shown in image)*
-32. *(not shown in image)*
-33. *(not shown in image)*
-34. *(not shown in image)*
+27. To grow through hard days *(added)*
+28. To forgive and be forgiven *(added)*
+29. To build something that lasts *(added)*
+30. To be a reason someone else keeps going *(added)*
+31. To learn from your mistakes *(added)*
+32. To see how your story unfolds *(added)*
+33. To find people who feel like home *(added)*
+34. To rest and begin again *(added)*
 35. Enemy
 36. To make a friend
 37. To hear the song you never heard
@@ -69,8 +69,8 @@ Improve for motivated if you are losing hope
 64. To explore possibility
 65. To become authentic
 66. To have fun
-67. *(not shown in image)*
-68. *(not shown in image)*
+67. To try again *(added)*
+68. To feel grateful *(added)*
 69. To become strong
 70. To see another sunrise
 71. To hear your favorite song again
@@ -103,4 +103,5 @@ Improve for motivated if you are losing hope
 98. To get the deservers one
 99. To eat good again
 100. To have the intimate happiness of life
-101. 
+
+
